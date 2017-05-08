@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dion Arya Pamungkas</title>
+    <link>http://dionarya6661.github.io/blog/index.xml</link>
+    <description>Recent content on Dion Arya Pamungkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2017 17:18:53 +0700</lastBuildDate>
+    <atom:link href="http://dionarya6661.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mencoba Blog Dengan Hugo</title>
+      <link>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</link>
+      <pubDate>Mon, 08 May 2017 17:18:53 +0700</pubDate>
+      
+      <guid>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</guid>
+      <description>
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://gohugo.io/img/hugo.png&#34; width=&#34;250&#34; height=&#34;250&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;apa-itu-hugo&#34;&gt;Apa itu Hugo&lt;/h2&gt;
+
+&lt;p&gt;Hugo merupakan cms static blog yang dikembangkan dengan bahasa program Go(lang), umumnya cms seperti ini sering dipakai oleh para programmer/developer untuk membuat blog atau website, dan yang lebih istimewa nya lagi hugo bisa menggunakan Github Pages sebagai hosting&lt;/p&gt;
+
+&lt;h3 id=&#34;kenapa-memakai-hugo&#34;&gt;Kenapa memakai Hugo ?&lt;/h3&gt;
+
+&lt;p&gt;Ini dia alasan saya memakai hugo daripada Jekyll &lt;br&gt;
+  1 Hugo lebih cepat karena ditulis dengan bahasa GO(Lang) &lt;br&gt;
+  2 Dokumentasi yang lengkap dan mudah dimengerti &lt;br&gt;
+  3 Biar beda dengan yang lain yang memakai Jekyll &lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;dari-mana-saya-tahu-hugo&#34;&gt;Dari mana saya tahu Hugo ?&lt;/h3&gt;
+
+&lt;p&gt;Awal nya mendengar hugo berasal dari website petanikode.com,
+dan saya pun sangat tertarik dengan cms yang satu ini dan ingin mencoba nya, Sebelumnya saya pernah membuat blog dengan jekyll akan tetapi saya gagal dalam membuat nya, dan saya pun mencari cms yang sejenis dengan Jekyll dan ketemulah dengan Hugo ini, sekarang saya sangat menyukai hugo sebagai cms blog saya&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
