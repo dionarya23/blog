@@ -2,19 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</loc>
+    <loc>https://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</loc>
     <lastmod>2017-05-08T17:18:53+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dionarya6661.github.io/blog/</loc>
+    <loc>https://dionarya6661.github.io/blog/</loc>
     <lastmod>2017-05-08T17:18:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dionarya6661.github.io/blog/post/</loc>
+    <loc>https://dionarya6661.github.io/blog/tags/post/</loc>
     <lastmod>2017-05-08T17:18:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dionarya6661.github.io/blog/post/</loc>
+    <lastmod>2017-05-08T17:18:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dionarya6661.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   

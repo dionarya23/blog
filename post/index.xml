@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dion Arya Pamungkas</title>
-    <link>http://dionarya6661.github.io/blog/post/index.xml</link>
-    <description>Recent content in Posts on Dion Arya Pamungkas</description>
+    <title>Posts on Dion Codes</title>
+    <link>https://dionarya6661.github.io/blog/post/index.xml</link>
+    <description>Recent content in Posts on Dion Codes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id-ID</language>
     <lastBuildDate>Mon, 08 May 2017 17:18:53 +0700</lastBuildDate>
-    <atom:link href="http://dionarya6661.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dionarya6661.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mencoba Blog Dengan Hugo</title>
-      <link>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</link>
+      <link>https://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</link>
       <pubDate>Mon, 08 May 2017 17:18:53 +0700</pubDate>
       
-      <guid>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</guid>
+      <guid>https://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</guid>
       <description>
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://gohugo.io/img/hugo.png&#34; width=&#34;250&#34; height=&#34;250&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/center&gt;&lt;/p&gt;
