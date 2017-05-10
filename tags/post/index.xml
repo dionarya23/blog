@@ -19,21 +19,40 @@
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://gohugo.io/img/hugo.png&#34; width=&#34;250&#34; height=&#34;250&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/center&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;apa-itu-hugo&#34;&gt;Apa itu Hugo&lt;/h2&gt;
+&lt;p&gt;Blooging merupakan kegiatan yang sangat gemari pada waktu kelas smp dulu, bahkan sampai sekarang saya masih menggemari kegiatan ini, bagi saya menulis di blog sangat menyenangkan awal saya kenal dengan dunia blogging pada waktu saya masih duduk di kelas 2 SMP, Awal nya saya hanya memakai sebuah platform blog yang ramah dengan handphone yaitu mywapblog, &lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;Hugo merupakan cms static blog yang dikembangkan dengan bahasa program Go(lang), umumnya cms seperti ini sering dipakai oleh para programmer/developer untuk membuat blog atau website, dan yang lebih istimewa nya lagi hugo bisa menggunakan Github Pages sebagai hosting&lt;/p&gt;
+&lt;p&gt;Saya ingat pada awal saya nge-blog dulu saya bukan lah seorang yang pintar menulis akan tetapi lama-kelamaan saya akhir nya bisa juga menyusun kata - kata, Ya walaupun kata - katanya tidak begitu rapih, sehabis blogging di mywapblog saya pun pindah ke platform Blogger, di platform blogger ini penuh dengan kenang - kenangan mulai dari rajin nya saya update postingan atau konten blog hingga akhirnya bisa membuat template sendiri, di platform buatan google saya membuat lebih dari 20 blog karena tergila - gila dunia blog, dan hal hasil satu pun tidak ter-urus hahahaha :D :D , hingga akhir nya saya berhasil mengurus satu blog yang memmiliki lumayan banyak pengunjung dan bisa menghasilkan pundi - pundi rupiah yang lumayan. &lt;br&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;kenapa-memakai-hugo&#34;&gt;Kenapa memakai Hugo ?&lt;/h3&gt;
+&lt;p&gt;Lanjut sehabis dari blogger saya pun bermigrasi ke wordpress self-hosted, Saya mendengar platform ini awalnya dari Youtube, yang keren dari platform ini kita bisa me-manage blog yang kita urus sesuka hati, mulai dari theme-nya sampai plugin nya pun bisa di modif sesuka hati :D. Akan tetapi kekurangan dari platform ini diperlukan modal yang cukup lumayan mulai dari biaya host dan belum lagi biaya sewa domain&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;Ini dia alasan saya memakai hugo daripada Jekyll &lt;br&gt;
-  1 Hugo lebih cepat karena ditulis dengan bahasa GO(Lang) &lt;br&gt;
-  2 Dokumentasi yang lengkap dan mudah dimengerti &lt;br&gt;
-  3 Biar beda dengan yang lain yang memakai Jekyll &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Dan itulah kisah saya waktu dulu yang sangat menggemari dunia blogging, sekarang saya pun mencoba hal yang baru yaitu ngeblog dengan Hugo, Apa itu Hugo ?&lt;br&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;dari-mana-saya-tahu-hugo&#34;&gt;Dari mana saya tahu Hugo ?&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hugo adalah sebuah framework situs web. Secara teknis, Hugo adalah generator situs statis. Tidak seperti cms lain yang di program untuk menjalankan situs secara dinamis, Hugo dioptimalkan untuk membuat situs web yang memberikan pengalaman menulis yang hebat.
+&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Awal nya mendengar hugo berasal dari website petanikode.com,
-dan saya pun sangat tertarik dengan cms yang satu ini dan ingin mencoba nya, Sebelumnya saya pernah membuat blog dengan jekyll akan tetapi saya gagal dalam membuat nya, dan saya pun mencari cms yang sejenis dengan Jekyll dan ketemulah dengan Hugo ini, sekarang saya sangat menyukai hugo sebagai cms blog saya&lt;/p&gt;
+&lt;p&gt;Itulah pengertian hugo yang saya kutip dari situs web resmi nya, Jadi intinya hugo merupakan sebuah CMS sama seperti wordpress akan tetapi hugo sedikit berbeda di hugo tidak memerlukan database karena postingan atau konten yang dibuat berbentuk file markdown dan yang lebih istimewa nya lagi hugo bisa memakai layanan gratis dari Github Pages, Gitlab dan Bitbucket
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;lalu-apa-istimewa-nya-hugo&#34;&gt;Lalu apa istimewa nya hugo ?&lt;/h3&gt;
+
+&lt;p&gt;Ini dia keistimewaan Hugo
+&lt;br&gt;
+* Cepat
+&lt;br&gt;
+Performa sebuah website biasanya paling ditentukan oleh waktu yang diperlukan untuk melakukan query ke database dan juga overhead dari code. Tetapi Hugo menggenerate website statis yang tidak ada query database atau code apapun. Artinya? jika kita memakai hugo website pun akan sangat cepat dalam menggenerate sebuah konten&lt;br&gt;
+&lt;br&gt;
+* Mudah&lt;br&gt;
+Kenapa mudah ? karena jika kita ingin membuat sebuah kontan atau artikel harus berbentuk file markdown mungkin markdown masih asing di telinga pembaca yang bukan seorang programmer, tapi bagi seorang programmer markdown merupakan hal mudah
+&lt;br&gt;
+&lt;br&gt;
+* Membuat dan mengedit artikel di teks editor sendiri &lt;br&gt;
+Dengan Hugo saya dapat menulis postingan atau artikel dengan teks editor kesayangan. Editor yang saya pakai adalah sublime text dan Atom, tetapi saya sering pakai atom karena di atom bisa melihat priview artikel yang sedang saya tulis dan yang lebih istimewanya lagi, sama sekali tidak menggunakan koneksi internet
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Dan itulah keistimewaan dari hugo, sebaiknya jika anda seorang programmer dan suka nge-blog juga seperti saya, Pakai lah hugo sebagai platform blogging anda karena dengan hugo juga anda bisa belajar dan terbiasa dengan Git.&lt;/p&gt;
 </description>
     </item>
     
