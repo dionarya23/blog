@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DionCodes</title>
-    <link>https://dionarya6661.github.io/blog/post/index.xml</link>
+    <link>http://dionarya6661.github.io/blog/post/index.xml</link>
     <description>Recent content in Posts on DionCodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2017 Copyright DionCodes</copyright>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
     <lastBuildDate>Mon, 08 May 2017 17:18:53 +0700</lastBuildDate>
-    <atom:link href="https://dionarya6661.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dionarya6661.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mencoba Blog Dengan Hugo</title>
-      <link>https://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</link>
+      <link>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</link>
       <pubDate>Mon, 08 May 2017 17:18:53 +0700</pubDate>
       
-      <guid>https://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</guid>
+      <guid>http://dionarya6661.github.io/blog/post/mencoba-blog-dengan-hugo/</guid>
       <description>
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://gohugo.io/img/hugo.png&#34; width=&#34;250&#34; height=&#34;250&#34; alt=&#34;Logo Hugo&#34;&gt;&lt;/center&gt;&lt;/p&gt;
