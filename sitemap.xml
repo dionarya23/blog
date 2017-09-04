@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://dionarya6661.github.io/blog/pengalaman/pengalaman-bersekolah-di-smk-negeri-2-cikarang-barat/</loc>
-    <lastmod>2017-05-23T22:06:01+07:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://dionarya6661.github.io/blog/post/pengalaman-bersekolah-di-smk-negeri-2-cikarang-barat/</loc>
@@ -17,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://dionarya6661.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dionarya6661.github.io/blog/</loc>
     <lastmod>2017-05-23T22:06:01+07:00</lastmod>
     <priority>0</priority>
@@ -24,12 +25,6 @@
   
   <url>
     <loc>https://dionarya6661.github.io/blog/tags/pengalaman/</loc>
-    <lastmod>2017-05-23T22:06:01+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dionarya6661.github.io/blog/pengalaman/</loc>
     <lastmod>2017-05-23T22:06:01+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -48,6 +43,7 @@
   
   <url>
     <loc>https://dionarya6661.github.io/blog/tags/</loc>
+    <lastmod>2017-05-23T22:06:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   

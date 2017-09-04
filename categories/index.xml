@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DionCodes</title>
+    <link>https://dionarya6661.github.io/blog/categories/</link>
+    <description>Recent content in Categories on DionCodes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made with ❤️ using Hugo 0.18.1.</copyright>
+    
+	<atom:link href="https://dionarya6661.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
